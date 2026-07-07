@@ -18,7 +18,6 @@ Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
 - `student_employability_analysis.ipynb` — main notebook with cleaning, EDA, and the documentation report
 - `pk_student_employability_dataset.csv` — raw dataset used
-- `pk_student_employability_cleaned.csv` — cleaned dataset exported from the notebook
 - `README.md` — this file
 
 ## Key Sections
