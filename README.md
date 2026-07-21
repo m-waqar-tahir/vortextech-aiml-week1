@@ -63,6 +63,9 @@ Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
   average age of 21.
 - Average CGPA is 2.91 out of 4.0, and higher CGPA is associated with a
   Highly Employable rating.
+- 91.73% of students in this dataset are rated Highly Employable overall,
+  with CGPA, programming skill level, and internship experience showing the
+  clearest links to that outcome.
 - Programming skill level and internship experience both show a clear link
   to employability — stronger skills and prior internships are associated
   with better outcomes.
